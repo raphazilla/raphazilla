@@ -56,8 +56,7 @@ Even though the context and abstraction of my career have evolved, the terminal 
 <h3 align="left">$ git status</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=raphazilla&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=raphazilla&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=raphazilla&theme=dark&hide_border=false" height="180" alt="streak graph" />
 </div>
 
 ###
